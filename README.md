@@ -1,4 +1,4 @@
-# Blood Supply Analytics (Faseela)
+# Faseela (Blood Supply Analytics)
 
 ## 📌 Executive Summary
 Faseela is a centralized, data-driven analytical reporting ecosystem engineered to monitor, analyze, and optimize regional blood supply chains. By dynamically aggregating data across local hospitals, registered donors, and regional blood banking facilities, the system establishes a continuous, transparent assessment of system-wide inventory health, logistical triage, and regional supply deficits.
